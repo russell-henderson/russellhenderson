@@ -1,3 +1,13 @@
+    --- 
+
+    layout: post
+
+    title: "Double Date Disaster: A Comedy of Errors"
+
+    date: 2024-11-23
+
+    --- 
+
 # Double Date Disaster: A Comedy of Errors  
 
 It was supposed to be a relaxing Saturday night—a break from the grind of juggling life, code, and existential dread. Instead, I accidentally signed myself up for what can only be described as a live-action pilot for the most chaotic 90s sitcom ever imagined. Yes, friends, I went on *two dates* at the same restaurant, at the same time, and thought the answer was changing outfits like I was auditioning for Broadway.  
