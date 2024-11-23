@@ -1,0 +1,9 @@
+# Site settings
+title: Russell Henderson Learns to read
+author: 
+  name: Russell Henderson
+  email: russellhenderson@my.unt.edu
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
